@@ -1532,5 +1532,22 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Steppi Pop Green",
+        "colors": ["#A2EDF6", "#42C7A2"]
+    },,
+    {
+        "name": "Steppi Pop Blue",
+        "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Steppi Purple",
+        "colors": ["#231651", "#C334C6","#D6EC83"]
+    },
+    {
+        "name": "Steppi Blue Green",
+        "colors": ["#A2EDF6", "#42C7A2","#AAE576","#D6EC83"]
     }
+  
 ]
